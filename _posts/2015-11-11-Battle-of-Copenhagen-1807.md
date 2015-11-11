@@ -4,7 +4,7 @@ title: Battle of Copenhagen in 1807
 ---
 # Quickly, tell me what it was!
 The Battle of [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen) was the bombardment of Copenhagen by The British in September 1807. 
-The British had shelled Copenhagen [before, in 1801](https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1801)), but this bombardment was even more devastating. 
+The British had shelled Copenhagen before [in 1801](https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1801)), but this bombardment was even more devastating. 
 It ended with Copenhagen surrendering and giving away most of its navy. Also all the ships under construction and the timber at the shipyard were destroyed.
 
 
