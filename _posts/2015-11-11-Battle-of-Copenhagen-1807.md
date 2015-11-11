@@ -5,7 +5,7 @@ title: Battle of Copenhagen in 1807
 # Quickly, tell me what it was!
 The Battle of Copenhagen was the bombardment of Copenhagen by The British in September 1807. 
 The British had shelled Copenhagen before, in 1801, but this bombardment was even more devastating. 
-It ended with Copenhagen surrendering and giving away most of its navy, all the ships under construction and the timber at the shipyard were destroyed.
+It ended with Copenhagen surrendering and giving away most of its navy. Also all the ships under construction and the timber at the shipyard were destroyed.
 
 # Okay, but why?
 At the end of 1806 Napoleon issued a decree that ordered the French and their allies to stop all trading with the English. 
