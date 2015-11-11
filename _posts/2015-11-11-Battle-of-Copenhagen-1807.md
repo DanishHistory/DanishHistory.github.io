@@ -6,6 +6,8 @@ title: Battle of Copenhagen in 1807
 The Battle of [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen) was the bombardment of Copenhagen by The British in September 1807. 
 The British had shelled Copenhagen [before, in 1801](https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1801)), but this bombardment was even more devastating. 
 It ended with Copenhagen surrendering and giving away most of its navy. Also all the ships under construction and the timber at the shipyard were destroyed.
+
+
 ![](http://i.imgur.com/wAmJyMD.jpg?1)
 
 # Okay, but why?
@@ -21,5 +23,7 @@ The population of Copenhagen at the time was around 102.000 people. The death to
 
 # What happend after?
 Denmark was forced to not be neatural anymore and became allies with France. It was also the end of the golden period that had made Copenhagen into one of the most important cities in the [Baltic region](https://en.wikipedia.org/wiki/Baltic_region).
+
+
 ![](http://i.imgur.com/tYpogT2.jpg)
 
